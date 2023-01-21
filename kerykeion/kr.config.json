@@ -166,7 +166,48 @@
         "North_Node": "Nodo Nord",
         "Mean_Node": "Mean Node"
       }
-    }
+    },
+    "HU": {
+      "info": "Info",
+      "cusp": "Holdcsúcs",
+      "longitude": "Hosszúság",
+      "latitude": "Szélesség,
+      "north": "Észak",
+      "east": "Kelet",
+      "south": "Dél",
+      "west": "Nyugat",
+      "fire": "Tűz",
+      "earth": "Föld",
+      "air": "Levegő",
+      "water": "Víz",
+      "&": "és",
+      "transits": "Transits for",
+      "type": "Typus",
+      "aspects": "Couple aspects",
+      "planets_and_house": "Bolygók és házak",
+      "transit_name": "Itt és most",
+      "lunar_phase": "Hold fázis",
+      "day": "Nap",
+
+      "planets": {
+        "Sun": "Nap",
+        "Moon": "Hold",
+        "Mercury": "Merkúr",
+        "Venus": "Vénusz",
+        "Mars": "Mars",
+        "Jupiter": "Jupiter",
+        "Saturn": "Saturnusz",
+        "Uranus": "Uránusz",
+        "Neptune": "Neptun",
+        "Pluto": "Plútó",
+        "Asc": "Asc",
+        "Mc": "Mc",
+        "Dsc": "Dsc",
+        "Ic": "Ic",
+        "North_Node": "North Node",
+        "Mean_Node": "Mean Node"
+      }
+    },
   },
 
   "colors": {
